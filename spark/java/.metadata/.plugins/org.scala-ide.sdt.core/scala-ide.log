@@ -1,0 +1,45 @@
+2016-07-03 21:22:59,338 ERROR [main] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2016-07-03 21:22:59,340 ERROR [main] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2016-07-03 21:22:59,340 ERROR [main] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2016-07-03 21:42:02,315 ERROR [main] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2016-07-03 21:42:02,315 ERROR [main] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2016-07-03 21:42:02,315 ERROR [main] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2016-07-03 22:58:24,604 ERROR [main] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2016-07-03 22:58:24,604 ERROR [main] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2016-07-03 22:58:24,604 ERROR [main] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2016-07-04 00:04:32,659 ERROR [main] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2016-07-04 00:04:32,660 ERROR [main] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2016-07-04 00:04:32,660 ERROR [main] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2016-07-04 00:08:51,827  WARN [main] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2016-07-04 00:08:51,828  WARN [main] - ScalaProject - Project SparkScala runs on platform default installation.
+2016-07-04 00:08:52,021  WARN [main] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2016-07-04 00:08:52,021  WARN [main] - ScalaProject - Project SparkScala runs on platform default installation.
+2016-07-04 00:08:52,690  WARN [Worker-6] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2016-07-04 00:08:52,691  WARN [Worker-6] - ScalaProject - Project SparkScala runs on platform default installation.
+2016-07-04 00:09:05,985  WARN [Worker-6] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2016-07-04 00:09:05,985  WARN [Worker-6] - ScalaProject - Project SparkScala runs on platform default installation.
+2016-07-04 00:15:18,846 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-04 00:15:18,847 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-04 00:21:19,940  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 504
+2016-07-04 00:21:57,517  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 504
+2016-07-04 00:22:55,305  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 829
+2016-07-04 00:22:55,306  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 840
+2016-07-04 00:24:13,362  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 829
+2016-07-04 00:24:13,363  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 840
+2016-07-04 00:26:00,065  WARN [ModalContext] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2016-07-04 00:26:00,065  WARN [ModalContext] - ScalaProject - Project SparkScala runs on platform default installation.
+2016-07-04 00:26:00,136  WARN [ModalContext] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2016-07-04 00:26:00,136  WARN [ModalContext] - ScalaProject - Project SparkScala runs on platform default installation.
+2016-07-04 00:28:55,824  WARN [Worker-21] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2016-07-04 00:28:55,824  WARN [Worker-21] - ScalaProject - Project SparkScala runs on platform default installation.
+2016-07-04 00:28:56,929  WARN [Worker-21] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2016-07-04 00:28:56,929  WARN [Worker-21] - ScalaProject - Project SparkScala runs on platform default installation.
+2016-07-04 00:29:06,690  WARN [Java indexing] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2016-07-04 00:29:06,690  WARN [Java indexing] - ScalaProject - Project SparkScala runs on platform default installation.
+2016-07-04 00:55:55,898 ERROR [main] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2016-07-04 00:55:55,899 ERROR [main] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2016-07-04 00:55:55,899 ERROR [main] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2016-07-04 00:55:59,463  WARN [Worker-0] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2016-07-04 00:55:59,465  WARN [Worker-0] - ScalaProject - Project SparkScala runs on platform default installation.
+2016-07-04 00:56:11,927  WARN [main] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2016-07-04 00:56:11,928  WARN [main] - ScalaProject - Project SparkScala runs on platform default installation.

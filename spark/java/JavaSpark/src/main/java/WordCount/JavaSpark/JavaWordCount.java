@@ -5,6 +5,7 @@ import org.apache.spark.api.java.JavaPairRDD;
 import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
 import org.apache.spark.api.java.function.FlatMapFunction;
+import org.apache.spark.api.java.function.Function;
 import org.apache.spark.api.java.function.Function2;
 import org.apache.spark.api.java.function.PairFunction;
 
@@ -34,7 +35,15 @@ public class JavaWordCount
         return Arrays.asList(SPACE.split(s.toLowerCase().replaceAll("[^a-zA-Z0-9 ]","")));
       }
     });
-
+    JavaRDD<String> wordsNE = words.filter(new Function<String,Boolean>(){
+    	public Boolean call(String s){
+    		if(s!=""){
+    			return true;
+    		}else{
+    			return false;
+    		}
+    	}
+    });
 
     JavaPairRDD<String, Integer> ones = words.mapToPair(new PairFunction<String, String, Integer>() {
       public Tuple2<String, Integer> call(String s) {
