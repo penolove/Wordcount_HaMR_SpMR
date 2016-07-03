@@ -43,3 +43,5 @@
 2016-07-04 00:55:59,465  WARN [Worker-0] - ScalaProject - Project SparkScala runs on platform default installation.
 2016-07-04 00:56:11,927  WARN [main] - ScalaProject - Project SparkScala has platform default sourceLevel.
 2016-07-04 00:56:11,928  WARN [main] - ScalaProject - Project SparkScala runs on platform default installation.
+2016-07-04 01:13:09,256  WARN [Worker-8] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2016-07-04 01:13:09,257  WARN [Worker-8] - ScalaProject - Project SparkScala runs on platform default installation.

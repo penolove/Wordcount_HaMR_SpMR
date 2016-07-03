@@ -37,10 +37,10 @@ public class JavaWordCount
     });
     JavaRDD<String> wordsNE = words.filter(new Function<String,Boolean>(){
     	public Boolean call(String s){
-    		if(s==null||s.isEmpty()){
-    			return false;
-    		}else{
+    		if(s!=""){
     			return true;
+    		}else{
+    			return false;
     		}
     	}
     });
